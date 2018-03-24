@@ -34,7 +34,9 @@ public class TasAksi {
         Hermes.aksesoris= "Gantungan";
         Hermes.harga= "Rp.1.900.000";
         
-        
+        Gucci.cetakinfo();
+        Prada.cetakinfo();
+        Hermes.cetakinfo();
                 
     }
     
