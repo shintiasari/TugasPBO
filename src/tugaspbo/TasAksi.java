@@ -12,6 +12,10 @@ package tugaspbo;
 public class TasAksi {
     public static void main(String[] args) {
         
+        Tas Gucci=new Tas ();
+        Tas Prada=new Tas ();
+        Tas Hermes=new Tas ();
+        
     }
     
     
