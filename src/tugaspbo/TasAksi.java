@@ -16,6 +16,26 @@ public class TasAksi {
         Tas Prada=new Tas ();
         Tas Hermes=new Tas ();
         
+        Gucci.merk= "Gucci Bright Diamante";
+        Gucci.made= "Italia";
+        Gucci.jenis= "Handbag";
+        Gucci.aksesoris= "Syal";
+        Gucci.harga= "Rp.5.200.000";
+        
+        Prada.merk= "Prada Tessuto Saffiano";
+        Prada.made= "Prancis";
+        Prada.jenis= "Hobo Bag";
+        Prada.aksesoris= "Boneka";
+        Prada.harga= "Rp.3.600.000";
+        
+        Hermes.merk= "Hermes Birkin Croco";
+        Hermes.made= "New Work";
+        Hermes.jenis= "Kelly Bag";
+        Hermes.aksesoris= "Gantungan";
+        Hermes.harga= "Rp.1.900.000";
+        
+        
+                
     }
     
     
