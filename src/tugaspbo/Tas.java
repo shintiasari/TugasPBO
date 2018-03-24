@@ -11,4 +11,19 @@ package tugaspbo;
  */
 public class Tas {
     
+    String merk;
+    String made;
+    String jenis;
+    String aksesoris;
+    String harga;
+    
+    void cetakinfo(){
+        System.out.println("Merk tas           : "+merk);
+        System.out.println("Asal Pembuatan tas : "+made);
+        System.out.println("jenis tas          : "+jenis);
+        System.out.println("Aksesoris tas      : "+aksesoris);
+        System.out.println("Harga tas          : "+harga);
+        System.out.println("==============================");
+        
+    }
 }
